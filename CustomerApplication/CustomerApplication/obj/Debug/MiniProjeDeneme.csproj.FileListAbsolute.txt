@@ -1,0 +1,15 @@
+C:\Users\Efe\source\repos\MiniProjeDeneme\MiniProjeDeneme\bin\Debug\MiniProjeDeneme.exe.config
+C:\Users\Efe\source\repos\MiniProjeDeneme\MiniProjeDeneme\bin\Debug\MiniProjeDeneme.exe
+C:\Users\Efe\source\repos\MiniProjeDeneme\MiniProjeDeneme\bin\Debug\MiniProjeDeneme.pdb
+C:\Users\Efe\source\repos\MiniProjeDeneme\MiniProjeDeneme\obj\Debug\MiniProjeDeneme.csproj.AssemblyReference.cache
+C:\Users\Efe\source\repos\MiniProjeDeneme\MiniProjeDeneme\obj\Debug\MiniProjeDeneme.Properties.Resources.resources
+C:\Users\Efe\source\repos\MiniProjeDeneme\MiniProjeDeneme\obj\Debug\MiniProjeDeneme.csproj.GenerateResource.cache
+C:\Users\Efe\source\repos\MiniProjeDeneme\MiniProjeDeneme\obj\Debug\MiniProjeDeneme.csproj.CoreCompileInputs.cache
+C:\Users\Efe\source\repos\MiniProjeDeneme\MiniProjeDeneme\obj\Debug\MiniProjeDeneme.exe
+C:\Users\Efe\source\repos\MiniProjeDeneme\MiniProjeDeneme\obj\Debug\MiniProjeDeneme.pdb
+C:\Users\Efe\source\repos\MiniProjeDeneme\MiniProjeDeneme\obj\Debug\MiniProjeDeneme.Form1.resources
+C:\Users\Efe\source\repos\MiniProjeDeneme\MiniProjeDeneme\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Efe\source\repos\MiniProjeDeneme\MiniProjeDeneme\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Efe\source\repos\MiniProjeDeneme\MiniProjeDeneme\obj\Debug\MiniProjeDeneme.csproj.CopyComplete
+C:\Users\Efe\source\repos\MiniProjeDeneme\MiniProjeDeneme\obj\Debug\MiniProjeDeneme.MusteriEkleSilForm.resources
+C:\Users\Efe\source\repos\MiniProjeDeneme\MiniProjeDeneme\obj\Debug\MiniProjeDeneme.MusterilerForm.resources

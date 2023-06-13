@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerApplication", "CustomerApplication.csproj", "{D2354973-36DB-43FC-80A4-3014F14CC770}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MusteriSetup", "..\MusteriSetup\MusteriSetup.vdproj", "{EEFBF82D-1211-4A48-82F8-CE46B627D95C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2354973-36DB-43FC-80A4-3014F14CC770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2354973-36DB-43FC-80A4-3014F14CC770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2354973-36DB-43FC-80A4-3014F14CC770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2354973-36DB-43FC-80A4-3014F14CC770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEFBF82D-1211-4A48-82F8-CE46B627D95C}.Debug|Any CPU.ActiveCfg = Debug
+		{EEFBF82D-1211-4A48-82F8-CE46B627D95C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19DF433B-D42C-47A3-9845-3E609B1075D1}
+	EndGlobalSection
+EndGlobal
