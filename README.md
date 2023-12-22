@@ -1,5 +1,6 @@
 # CustomerApplication-.NET
  - A windows forms customer application developed with .NET Framework technology and C# language.
+ - You can install and try the application from the MusteriSetup folder.
  
 # Contents of Project
 - With this application user can create a customer and set customer's informations.
