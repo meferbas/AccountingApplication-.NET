@@ -1,4 +1,4 @@
-# CustomerApplication-.NET
+# AccountingApplication-.NET
 This is an accounting windows forms application. The project developed with .NET Framework technology and C# language.
 You can install and try the application from the MusteriSetup folder.
  
